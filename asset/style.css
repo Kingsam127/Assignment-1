@@ -1,0 +1,140 @@
+body {
+background-color: white;
+}
+
+h1 {
+font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Helvetica Neue", sans-serif;
+}
+
+ .all1 {
+    background-color: white;
+      border: #F7F7F7 2px;
+      border-style: solid;
+      border-radius: 2px;
+      margin-left: 500px;
+      width: 300px;
+      text-align: center;
+    
+ }
+
+#para1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+opacity: 0.3;
+font-size: 12px;
+}
+
+#div1 {
+  background-color: dodgerblue;
+height: 27px;
+margin-left: 25px;
+margin-right: 25px;
+     }
+
+
+.para2 {
+       color: white;
+       padding-top: 9px;
+       font-family: helvetica;
+       font-size: 10px;
+}
+
+#div2 {
+       color: dodgerblue;
+       background-color: white;
+       font-family: helvetica;
+       font-size: 15px;
+       padding-left: 6px;
+       margin-left: 118px;
+       margin-right: 118px;
+       height: 13px;
+       position: relative;
+       bottom: 28px;
+       right: 58px;
+}
+.ONOR{
+  display: flex;
+  align-items: center;
+  margin: 3px 0;
+}
+.line{
+  width: 100px;
+  height: 1px;
+  background-color: #c5c5c5;
+}
+
+#div3 {
+       margin-top: -25px;
+} 
+
+.para3 {
+    opacity: 0.2;
+      font-size: 22px
+}
+
+
+#para4 {
+    font-size: 11px;
+    padding: 0px;
+    margin-top: -30px;
+    opacity: 0.3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    bottom: 1px;
+    right: 2px;
+}
+
+.form1 {
+         margin-top: 25px;
+         opacity: 0.5;
+         
+    }
+
+#div4 input {
+     display: table-cell;
+     outline: none; 
+     padding: 10px;
+     width: 220px;
+     margin-top: -9px;
+     border: #F7F7F7 3px solid;
+     border-radius: 5px;
+     font-size: 10px;
+     
+}
+
+.signup1 {
+    background-color: dodgerblue;
+    color: white;
+    padding-top: 9px;
+    font-family: helvetica;
+  height: 23px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 11px;
+  text-align: center;
+  }
+
+  .para5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.3;
+    font-size: 11px;
+  }
+
+  .para6 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 10px;
+display: inline;
+padding-top: 5px;
+  }
+
+  #div7 {
+    background-color: white;
+    border: #F7F7F7 2px solid;
+    border-radius: 2px;
+    height: 40px;
+    margin-left: 500px;
+    margin-right: 460px;
+    margin-top: -12px;
+    padding-top: 17px;
+    text-align: center;
+    opacity: 0.5;
+  }
