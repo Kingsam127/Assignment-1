@@ -1,22 +1,23 @@
 body {
 background-color: white;
+text-align: center;
 }
 
 h1 {
 font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Helvetica Neue", sans-serif;
 }
 
- .all1 {
-    background-color: white;
+ form {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
       border: #F7F7F7 2px;
       border-style: solid;
       border-radius: 2px;
-      margin-left: 500px;
-      width: 300px;
       text-align: center;
     
  }
-
 #para1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 opacity: 0.3;
@@ -127,14 +128,16 @@ padding-top: 5px;
   }
 
   #div7 {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: white;
-    border: #F7F7F7 2px solid;
-    border-radius: 2px;
-    height: 40px;
-    margin-left: 500px;
-    margin-right: 460px;
-    margin-top: -12px;
-    padding-top: 17px;
-    text-align: center;
-    opacity: 0.5;
+        border: #F7F7F7 2px;
+        border-style: solid;
+        border-radius: 2px;
+        text-align: center;
+        height: 40px;
+        padding-top: 17px;
+        text-align: center;
+        opacity: 0.5;
   }
